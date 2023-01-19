@@ -1,0 +1,5 @@
+The project aims at development of a Database Management platform, capable of performing most of the database operations such as query execution, transaction and log management, reverse engineering and export. The implementation includes validation of the query requested by the user and parsing of the data in the correct format for accurate processing. Parsing would consider the various data types and load the data in-memory for seamless handling of the modification and retrieval requests.
+
+As part of the project, we would also be developing Reverse engineering feature to extract various tables, their relationships among each other along with the cardinalities. Moreover, the Analytics module will be providing user with the information like the number of valid queries done on an xyz database by an abc user. Log management module plays an integral role for execution of transactions and for the analysis.
+
+In a nutshell, the whole idea of this project is to implement and understand the functioning of a typical centralized database, its management system and analytics operation
